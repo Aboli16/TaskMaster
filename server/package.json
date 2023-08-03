@@ -12,5 +12,9 @@
     "jsonwebtoken": "^9.0.1",
     "morgan": "^1.10.0",
     "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "start": "node server.js"
   }
+  
 }
