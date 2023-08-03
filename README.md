@@ -1,6 +1,5 @@
-# task-manager
+# TaskMaster
 
-### to run app
-#### go to each individial folder and run yarn or yarn install
-#### go back to root folder and run yarn start
-
+### TaskMaster is an intuitive task management application designed to streamline your workflow and boost productivity. 
+### With TaskMaster, managing your to-do lists and projects has never been easier. 
+### Stay organized, collaborate effortlessly, and stay on top of your tasks with our feature-rich platform.
